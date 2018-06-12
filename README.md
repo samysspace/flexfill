@@ -1,2 +1,2 @@
 # flexfill
-💽Flexible browser-independent event handling
+> 💽 Flexible browser-independent event handling
