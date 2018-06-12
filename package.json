@@ -1,0 +1,20 @@
+{
+  "name": "flexfill",
+  "description": "Flexible event handling for all browsers",
+  "version": "1.0.0",
+  "homepage": "https://github.com/samysspace/flexfill",
+  "author": {
+    "email": "scherfaoui@berkeley.edu",
+    "name": "Samy Cherfaoui",
+    "url": "http://scherfaoui.github.io"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/samysspace/flexfill"
+  },
+  "main": "src/flexfill.js",
+  "dependencies": {
+    "custom-event": "^1.0.0"
+  }
+}
