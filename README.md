@@ -47,7 +47,7 @@ flexfill.add(document.body, 'dogs', bahamen);
 flexfill.create(document.body, 'dogs', { dogsOut: true });
 
 function bahamen (e) {
-  console.log('Who let the dogs out? ' + e.detail.dogsOut ? ' Who? Who? Who?' : 'They're still in the yard.');
+  console.log('Who let the dogs out? ' + e.detail.dogsOut ? ' Who? Who? Who?' : 'They\'re still in the yard.');
 }
 ```
 
